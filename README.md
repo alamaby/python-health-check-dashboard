@@ -115,3 +115,11 @@ The application automatically saves data to JSON files:
 - Visualization: Created using `Plotly` and displayed in `Streamlit`
 - State management: Uses Streamlit's session state for temporary storage
 - Persistence: Saves URLs to `urls.json` and history to `history.json` files
+
+## License
+
+Apache-2.0
+
+## Contributing
+
+Please create a pull request if you want to add features or fix bugs.
