@@ -1,0 +1,11 @@
+[
+  "https://httpbin.org/status/200",
+  "https://httpbin.org/status/404",
+  "https://httpbin.org/status/500",
+  "https://jsonplaceholder.typicode.com/posts/1",
+  "https://gitlab.com",
+  "https://github.com",
+  "https://alamaby.gitlab.io",
+  "http://asharu.id",
+  "http://kopiyantea.id"
+]
